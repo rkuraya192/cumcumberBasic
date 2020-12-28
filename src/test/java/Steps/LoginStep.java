@@ -39,7 +39,7 @@ public class LoginStep extends BaseUtil{
 
     @And("^I click login button$")
     public void iClickLoginButton() throws Throwable {
-        System.out.println("Click login button");
+        System.out.println("Click login button to login");
     }
 
 
